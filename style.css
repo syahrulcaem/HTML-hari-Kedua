@@ -1,0 +1,19 @@
+h1{color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p{
+    color: blueviolet;
+    background-color: rgb(177, 226, 43);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+}
+image{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+b{
+    color: rgb(106, 0, 255);
+}
