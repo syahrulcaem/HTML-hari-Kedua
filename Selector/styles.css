@@ -1,0 +1,32 @@
+/* Selector Universal */
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: ivory;
+}
+
+/* Type selector */
+
+ h1,h2{
+    color: blueviolet;
+ }
+
+ /* Class selector */
+
+ li.satu{ background-color: rgb(195, 226, 43);
+    border-radius: 100px;
+    padding: 2px;
+    
+ }
+
+ /* Id selector */
+
+ #Jumatkelabu{
+    color: red;
+ }
+
+ /* child selector */
+
+ li>b{
+    color: rgb(1, 96, 96);
+ }
