@@ -14,11 +14,25 @@ h1{
 .penulis{
     font-size: 15px;
     color: #FFDFDF;
+    background-color: ;
 }
 
 p span{
     color: #AEDEFC;
 }
+
+#Judul{
+    background-color: #FFF6F6;
+    color: #F875AA;
+    border-radius: 15%;
+    padding: 5px;
+    text-align: center;
+}
 body{
     background-color: aqua;
+}
+
+p{
+    background-color: #AEDEFC;
+    color: #;
 }
