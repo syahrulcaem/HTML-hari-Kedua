@@ -1,0 +1,22 @@
+.kelas{
+    color: #8a2124;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 10px ;
+}
+
+.penulis{
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.instagram{
+    text-decoration: none
+}
+
+p{
+    text-align: justify
+}
